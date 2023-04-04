@@ -7,6 +7,8 @@ sites:
     url: https://cosgrid.com
   - name: Google
     url: https://www.google.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
  
 
