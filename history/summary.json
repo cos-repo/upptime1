@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1455,
-    "timeDay": 1453,
-    "timeWeek": 1452,
-    "timeMonth": 1525,
+    "timeDay": 1476,
+    "timeWeek": 1461,
+    "timeMonth": 1526,
     "timeYear": 1455,
     "dailyMinutesDown": {
       "2023-10-14": 17,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 116,
-    "timeDay": 83,
-    "timeWeek": 121,
-    "timeMonth": 113,
+    "timeDay": 80,
+    "timeWeek": 116,
+    "timeMonth": 112,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-07-31": 18,
@@ -50,19 +50,19 @@
     "url": "https://cosgridnetworks.in/api/v1/tenant/data/cosgrid-com-mail/",
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "backend-api",
-    "status": "down",
-    "uptime": "17.61%",
-    "uptimeDay": "17.61%",
-    "uptimeWeek": "17.61%",
-    "uptimeMonth": "17.61%",
-    "uptimeYear": "17.61%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "12.50%",
+    "uptimeDay": "12.50%",
+    "uptimeWeek": "12.50%",
+    "uptimeMonth": "12.50%",
+    "uptimeYear": "12.50%",
+    "time": 841,
+    "timeDay": 841,
+    "timeWeek": 841,
+    "timeMonth": 841,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-11-15": 7
+      "2023-11-15": 11
     }
   }
 ]
