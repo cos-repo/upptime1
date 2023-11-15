@@ -6,7 +6,7 @@ sites:
   - name: CosGrid
     url: https://cosgrid.com
   - name: CosGrid Networks
-  url: http://cosgridnetworks.in
+    url: http://cosgridnetworks.in
   - name: Google
     url: https://www.google.com
   - name: Backend API 
