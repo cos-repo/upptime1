@@ -5,6 +5,8 @@ repo: upptime1 # The name of this repository
 sites:
   - name: CosGrid
     url: https://cosgrid.com
+  - name: CosGrid Networks
+  url: http://cosgridnetworks.in
   - name: Google
     url: https://www.google.com
   - name: Backend API 
