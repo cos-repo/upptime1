@@ -51,18 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "backend-api",
     "status": "up",
-    "uptime": "12.50%",
-    "uptimeDay": "12.50%",
-    "uptimeWeek": "12.50%",
-    "uptimeMonth": "12.50%",
-    "uptimeYear": "12.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 841,
     "timeDay": 841,
     "timeWeek": 841,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {
-      "2023-11-15": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
