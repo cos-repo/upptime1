@@ -27,9 +27,9 @@
     "url": "http://cosgridnetworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "cos-grid-networks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 1392,
     "timeMonth": 1358,
     "timeYear": 1358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Google",
