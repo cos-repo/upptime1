@@ -27,18 +27,20 @@
     "url": "http://cosgridnetworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "cos-grid-networks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1351,
-    "timeDay": 1364,
-    "timeWeek": 1328,
-    "timeMonth": 1351,
-    "timeYear": 1351,
-    "dailyMinutesDown": {}
+    "time": 1345,
+    "timeDay": 1280,
+    "timeWeek": 1315,
+    "timeMonth": 1345,
+    "timeYear": 1345,
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   },
   {
     "name": "Google",
@@ -68,17 +70,19 @@
     "url": "https://cosgridnetworks.in/api/v1/tenant/data/cosgrid-com-mail/",
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 226,
-    "timeWeek": 218,
-    "timeMonth": 242,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 211,
+    "timeWeek": 215,
+    "timeMonth": 240,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   }
 ]
