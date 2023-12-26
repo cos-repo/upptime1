@@ -1,7 +1,7 @@
 url: http://cosgridnetworks.in
-status: up
-code: 200
-responseTime: 1236
-lastUpdated: 2023-12-25T23:06:37.131Z
+status: down
+code: 502
+responseTime: 1193
+lastUpdated: 2023-12-26T08:49:54.133Z
 startTime: 2023-11-15T09:03:59.111Z
 generator: Upptime <https://github.com/upptime/upptime>
