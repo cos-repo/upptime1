@@ -9,7 +9,7 @@ sites:
     url: https://www.cosgrid.com
   - name: CosGrid Networks
     url: https://cosgrid.net
-  - name wwwCosGrid Networks
+  - name: wwwCosGrid Networks
     url: https://www.cosgrid.net
   - name: Google
     url: https://www.google.com
