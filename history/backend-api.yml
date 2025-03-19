@@ -1,7 +1,7 @@
 url: https://cosgridnetworks.in/api/v1/tenant/data/cosgrid-com-mail/
-status: down
-code: 502
-responseTime: 716
-lastUpdated: 2025-03-19T07:50:02.546Z
+status: up
+code: 200
+responseTime: 781
+lastUpdated: 2025-03-19T08:33:13.627Z
 startTime: 2023-11-15T08:15:59.282Z
 generator: Upptime <https://github.com/upptime/upptime>
