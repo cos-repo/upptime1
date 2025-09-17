@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1548,
-    "timeDay": 1477,
-    "timeWeek": 1634,
-    "timeMonth": 1678,
-    "timeYear": 1548,
+    "timeDay": 1939,
+    "timeWeek": 1645,
+    "timeMonth": 1684,
+    "timeYear": 1550,
     "dailyMinutesDown": {
       "2025-05-23": 92,
-      "2025-02-25": 25,
-      "2024-09-17": 216
+      "2025-02-25": 25
     }
   },
   {
@@ -31,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.97%",
     "time": 1762,
-    "timeDay": 1397,
-    "timeWeek": 1645,
-    "timeMonth": 1717,
-    "timeYear": 1540,
+    "timeDay": 1972,
+    "timeWeek": 1659,
+    "timeMonth": 1722,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2025-06-03": 517,
       "2025-06-02": 1440,
@@ -50,8 +49,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 750,
-      "2025-02-25": 24,
-      "2024-09-17": 297
+      "2025-02-25": 24
     }
   },
   {
@@ -60,22 +58,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosgrid.net.ico",
     "slug": "cos-grid-networks",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 994,
-    "timeDay": 1086,
-    "timeWeek": 1260,
-    "timeMonth": 1362,
-    "timeYear": 1111,
+    "time": 996,
+    "timeDay": 1592,
+    "timeWeek": 1291,
+    "timeMonth": 1367,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2025-05-23": 91,
       "2025-02-25": 24,
       "2024-12-23": 20,
-      "2024-09-18": 582,
-      "2024-09-17": 1143
+      "2024-09-18": 582
     }
   },
   {
@@ -84,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cosgrid.net.ico",
     "slug": "www-cos-grid-networks",
     "status": "down",
-    "uptime": "32.01%",
+    "uptime": "31.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.33%",
-    "time": 586,
+    "time": 587,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-09-16": 83,
+      "2025-09-17": 83,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -458,8 +456,7 @@
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
-      "2024-09-18": 858,
-      "2024-09-17": 297
+      "2024-09-18": 858
     }
   },
   {
@@ -474,8 +471,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 112,
-    "timeDay": 80,
-    "timeWeek": 84,
+    "timeDay": 89,
+    "timeWeek": 86,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -498,9 +495,9 @@
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.46%",
     "time": 916,
-    "timeDay": 751,
-    "timeWeek": 862,
-    "timeMonth": 856,
+    "timeDay": 1025,
+    "timeWeek": 879,
+    "timeMonth": 857,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2025-09-02": 62,
