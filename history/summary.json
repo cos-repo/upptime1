@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosgrid.com.ico",
     "slug": "cos-grid",
     "status": "up",
-    "uptime": "83.23%",
+    "uptime": "83.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "47.82%",
-    "time": 2001,
-    "timeDay": 5911,
-    "timeWeek": 5872,
-    "timeMonth": 4613,
-    "timeYear": 2269,
+    "time": 2014,
+    "timeDay": 5599,
+    "timeWeek": 5882,
+    "timeMonth": 4682,
+    "timeYear": 2290,
     "dailyMinutesDown": {
       "2026-04-27": 462,
       "2026-04-26": 473,
@@ -209,8 +209,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 612,
-      "2025-09-25": 16,
-      "2025-05-23": 92
+      "2025-09-25": 16
     }
   },
   {
@@ -224,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "96.82%",
-    "time": 2071,
-    "timeDay": 5054,
-    "timeWeek": 4986,
-    "timeMonth": 3212,
-    "timeYear": 2237,
+    "time": 2078,
+    "timeDay": 4769,
+    "timeWeek": 4930,
+    "timeMonth": 3316,
+    "timeYear": 2245,
     "dailyMinutesDown": {
       "2026-04-27": 462,
       "2026-04-26": 472,
@@ -244,8 +243,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 750
+      "2025-05-24": 1440
     }
   },
   {
@@ -260,13 +258,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1269,
-    "timeDay": 1124,
-    "timeWeek": 1135,
-    "timeMonth": 1170,
-    "timeYear": 1327,
-    "dailyMinutesDown": {
-      "2025-05-23": 91
-    }
+    "timeDay": 1181,
+    "timeWeek": 1143,
+    "timeMonth": 1169,
+    "timeYear": 1326,
+    "dailyMinutesDown": {}
   },
   {
     "name": "wwwCosGrid Networks",
@@ -274,7 +270,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cosgrid.net.ico",
     "slug": "www-cos-grid-networks",
     "status": "down",
-    "uptime": "22.10%",
+    "uptime": "22.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -285,7 +281,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 225,
+      "2026-05-23": 202,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -648,8 +645,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -664,10 +660,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
     "time": 119,
-    "timeDay": 73,
-    "timeWeek": 76,
-    "timeMonth": 102,
-    "timeYear": 118,
+    "timeDay": 76,
+    "timeWeek": 77,
+    "timeMonth": 101,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2026-05-08": 64,
       "2026-01-18": 58,
@@ -686,18 +682,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosgridnetworks.in.ico",
     "slug": "backend-api",
     "status": "down",
-    "uptime": "87.13%",
+    "uptime": "87.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.88%",
+    "uptimeYear": "67.61%",
     "time": 946,
-    "timeDay": 657,
-    "timeWeek": 691,
-    "timeMonth": 707,
+    "timeDay": 697,
+    "timeWeek": 679,
+    "timeMonth": 704,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2026-05-22": 225,
+      "2026-05-23": 202,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
